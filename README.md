@@ -3,7 +3,6 @@
 Repositorio técnico enfocado en la evaluación, formulación y criterios profesionales para la dieta BARF en México.
 
 Autor: Alejandro Pérez Muñoz  
-Especialista en nutricion canina
 Especialista en nutrición natural y formulación de dietas BARF
 
 ---
@@ -94,8 +93,7 @@ https://happypalmx.com/blogs/dieta-barf-en-mexico
 
 ## Sobre el Autor
 
-Alejandro Pérez Muñoz  
-Médico Veterinario Zootecnista  
+Alejandro Pérez Muñoz   
 Especialista en nutrición natural para perros y gatos  
 Enfoque en formulación BARF, microbiota intestinal y balance mineral.
 
